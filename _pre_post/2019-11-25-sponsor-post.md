@@ -3,6 +3,7 @@ title: Sponsor Post
 description: Thank you to our sponsors
 author: hodev
 image: https://source.unsplash.com/featured?money
+hidden: 3000-01-01T00:00:00Z
 tags:
   - meta
   - sponsorship

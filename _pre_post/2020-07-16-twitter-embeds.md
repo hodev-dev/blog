@@ -3,6 +3,7 @@ title: Twitter “Embed” Cards While Respecting Privacy
 description: A quick demo!
 author: hodev
 image: https://source.unsplash.com/featured?future
+hidden: 3000-01-01T00:00:00Z
 ---
 
 We wanted to quote/embed a tweet in our blog, but don't like the idea of pulling in JS or even an iframe from Twitter's servers. So insted, we recreate a tweet card locally, making sure to follow the [Twitter Display Requirements](https://developer.twitter.com/en/developer-terms/display-requirements). Check it out:

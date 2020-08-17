@@ -6,7 +6,7 @@ tags:
   - meta
   - embargo
 image: https://source.unsplash.com/featured?secret
-# hidden: 3000-01-01T00:00:00Z
+hidden: 3000-01-01T00:00:00Z
 # date: 2019-10-01
 ---
 
