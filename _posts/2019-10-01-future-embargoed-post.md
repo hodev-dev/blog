@@ -1,7 +1,7 @@
 ---
 title: Future Embargoed Post
 description: Shh, it's a secret!
-author: cassidyjames
+author: hodev
 tags:
   - meta
   - embargo
