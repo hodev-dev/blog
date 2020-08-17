@@ -4,7 +4,7 @@
   href="{{ post.url | prepend: site.baseurl }}">
   {% if post.image %}
   <div class="featured-image" alt="Featured image"
-    style="background-image: url({{ post.url | prepend: site.baseurl }})"></div>
+    style="background-image: url({{ post.image | prepend: site.baseurl }})"></div>
   {% endif %}
 
   <header>
